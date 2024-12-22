@@ -22,7 +22,7 @@ A powerful and user-friendly Streamlit application that performs Optical Charact
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/document-ocr-llama-vision.git
+git clone https://github.com/chaithanyak42/document-ocr-llama-vision.git
 cd document-ocr-llama-vision
 ```
 
@@ -86,11 +86,11 @@ The application uses several key technologies:
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please feel free to submit a Pull Request. Visit the [GitHub repository](https://github.com/chaithanyak42/document-ocr-llama-vision) to contribute.
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -100,4 +100,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-For questions and feedback, please open an issue in the GitHub repository. 
+For questions and feedback, please [open an issue](https://github.com/chaithanyak42/document-ocr-llama-vision/issues) in the GitHub repository. 
